@@ -2,7 +2,8 @@
     "plugins": [
         {
             "name": "PBP KaOsKrew",
-            "author": "Disstract"
+            "author": "Disstract",
+            "ghUrl": "https://github.com/Disstract/PBP-Kaos-Krew"
         }
     ]
 }
