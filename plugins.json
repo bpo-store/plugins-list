@@ -2,7 +2,7 @@
   "plugins": [
     {
 	    "name": "pbp-1337x-scraper",
-	    "author": "zun1uwu".
+	    "author": "zun1uwu",
 	    "ghUrl": "https://github.com/zun1uwu/pbp-1337x-scraper"
 	  }
   ]
