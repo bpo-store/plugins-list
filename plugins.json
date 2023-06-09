@@ -1,16 +1,6 @@
 {
   "plugins": [
     {
-      "name": "PBP-FLPG-Plugin",
-      "author": "zun1uwu/TerrenceTingleberry",
-      "ghUrl": "https://github.com/TerrenceTingleberry/PBP-FLPG-Plugin"
-    },
-    {
-      "name": "PBP-1337x-Plugin",
-      "author": "zun1uwu/TerrenceTingleberry",
-      "ghUrl": "https://github.com/TerrenceTingleberry/PBP-1337x-Plugin"
-    },
-    {
       "name": "Rezi-PBP-RS",
       "author": "Brisolo32",
       "ghUrl": "https://github.com/Brisolo32/rezi-pbp-rs"
