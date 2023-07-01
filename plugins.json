@@ -1,9 +1,4 @@
 {
   "plugins": [
-    {
-      "name": "Rezi-PBP-RS",
-      "author": "Brisolo32",
-      "ghUrl": "https://github.com/Brisolo32/rezi-pbp-rs"
-    }
   ]
 }
