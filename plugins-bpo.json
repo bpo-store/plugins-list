@@ -4,6 +4,26 @@
       "name": "BPO Prowlarr Plugin",
       "author": "Brisolo32",
       "ghUrl": "https://github.com/Brisolo32/bpo-prowlarr-plugin"
-    }
+    },
+    {
+      "name": "Elamigos BPO",
+      "author": "jma",
+      "ghUrl": "https://github.com/Y0URD34TH/BPO-GLD-Plugins/releases/tag/v1.0-BPO-Plugins"
+    },
+    {
+      "name": "FitGirl BPO",
+      "author": "Brisolo32",
+      "ghUrl": "https://github.com/Y0URD34TH/BPO-GLD-Plugins/releases/tag/v1.0-BPO-Plugins"
+    },
+    {
+      "name": "Rezi BPO",
+      "author": "Brisolo32",
+      "ghUrl": "https://github.com/Y0URD34TH/BPO-GLD-Plugins/releases/tag/v1.0-BPO-Plugins"
+    },
+    {
+      "name": "1337x BPO",
+      "author": "jma",
+      "ghUrl": "https://github.com/Y0URD34TH/BPO-GLD-Plugins/releases/tag/v1.0-BPO-Plugins"
+    },
   ]
 }
