@@ -3,4 +3,4 @@ A list of all plugins on PBP-Store
 
 ### Current Plugins:
 
-- nothing :sob:
+- BPO Prowlarr Plugin - [Brisolo32](github.com/brisolo32/)
