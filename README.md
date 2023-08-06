@@ -7,11 +7,9 @@ A list of all plugins on PBP-Store
 - FitGirl BPO - [Brisolo32](github.com/brisolo32/)
 - Rezi BPO - [Brisolo32](github.com/brisolo32/)
 - Elamigos BPO - [jma](github.com/Y0URD34TH)
-- 1337x BPO - [jma](github.com/Y0URD34TH)
 
 ### Current Project GLD Plugins:
 
-- 1337x - [jma](github.com/Y0URD34TH)
 - FitGirl - [jma](github.com/Y0URD34TH)
 - Rezi - [jma](github.com/Y0URD34TH)
 - Elamigos - [jma](github.com/Y0URD34TH)
